@@ -8,7 +8,7 @@ Source data was provided by facilitators of the W.I.L.D. program at the Jacksonv
 
 ## About this repository
 This repository contains:
-* __data/__: folder containing the data used in our analysis
+* __data/__: folder containing the data used in our analysis (note that raw data has been removed because of PII concerns)
 * __data/clean/__: folder containing the processed data that feeds into our models
 * __code/__: folder with the jupyter notebooks we used for data cleaning and modeling
 * __code/EDA.ipynb__: jupyter notebook with the code for our exploratory data analysis
